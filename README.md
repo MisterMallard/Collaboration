@@ -27,3 +27,4 @@
 - fout! daar is geen p
 - beurt3: Kjelt gokt "N"
 - goed! 3 heeft een n
+- beurt4: Bob gokt "A"
