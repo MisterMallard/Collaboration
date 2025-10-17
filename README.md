@@ -11,7 +11,7 @@
 
 ## Woordraster
 <!-- Pas het aantal kolommen aan aan de woordlengte -->
-| a | a | n | . | e | d | . | a | a | . | d | e |
+| a | a | n | g | e | d | r | a | a | i | d | e |
 | - | - | - | - | - | - | - | - | - | - | - | - |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 
@@ -34,3 +34,4 @@
 - bert 5: Ilya gokt "D"
 - goed! het word heeft 2 d's
 - woord: Aangedraaide
+- JA! dat is het juiste word! 
