@@ -16,7 +16,7 @@
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 
 ## Status
-![status](images/2.png)
+![status](images/3.png)
 
 ---
 
@@ -30,3 +30,4 @@
 - beurt4: Bob gokt "A"
 - goed! het word heeft 4 a's
 - beurt5: Maksym gokt "v"
+- fout! daar is geen v
