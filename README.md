@@ -11,7 +11,7 @@
 
 ## Woordraster
 <!-- Pas het aantal kolommen aan aan de woordlengte -->
-| . | . | n | . | e | . | . | . | . | . | . | e |
+| a | a | n | . | e | . | . | a | a | . | . | e |
 | - | - | - | - | - | - | - | - | - | - | - | - |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 
@@ -28,3 +28,4 @@
 - beurt3: Kjelt gokt "N"
 - goed! 3 heeft een n
 - beurt4: Bob gokt "A"
+- goed! het word heeft 4 a's
