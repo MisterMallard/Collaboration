@@ -11,7 +11,7 @@
 
 ## Woordraster
 <!-- Pas het aantal kolommen aan aan de woordlengte -->
-| . | . | . | . | e | . | . | . | . | . | . | e |
+| . | . | n | . | e | . | . | . | . | . | . | e |
 | - | - | - | - | - | - | - | - | - | - | - | - |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 
@@ -26,3 +26,4 @@
 - beurt2: Ilya gokt "P"
 - fout! daar is geen p
 - beurt3: Kjelt gokt "N"
+- goed! 3 heeft een n
