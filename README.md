@@ -23,4 +23,4 @@
 ## Beurtenlog
 - beurt1: Maksym gokt "E"
 - goed! 5 en 12 heeft een e 
-- beurt2: ...
+- beurt2: Ilya gokt "p"
