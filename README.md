@@ -16,7 +16,7 @@
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 
 ## Status
-![status](images/1.png)
+![status](images/2.png)
 
 ---
 
@@ -24,3 +24,4 @@
 - beurt1: Maksym gokt "E"
 - goed! 5 en 12 heeft een e 
 - beurt2: Ilya gokt "p"
+- fout! daar is geen p
