@@ -33,3 +33,4 @@
 - fout! daar is geen v
 - bert 5: Ilya gokt "D"
 - goed! het word heeft 2 d's
+- woord: Aangedraaide
