@@ -29,3 +29,4 @@
 - goed! 3 heeft een n
 - beurt4: Bob gokt "A"
 - goed! het word heeft 4 a's
+- beurt5: Maksym gokt "v"
