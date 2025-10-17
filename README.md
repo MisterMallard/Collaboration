@@ -23,5 +23,6 @@
 ## Beurtenlog
 - beurt1: Maksym gokt "E"
 - goed! 5 en 12 heeft een e 
-- beurt2: Ilya gokt "p"
+- beurt2: Ilya gokt "P"
 - fout! daar is geen p
+- beurt3: Kjelt gokt "N"
