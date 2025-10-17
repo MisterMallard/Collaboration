@@ -11,7 +11,7 @@
 
 ## Woordraster
 <!-- Pas het aantal kolommen aan aan de woordlengte -->
-| a | a | n | . | e | . | . | a | a | . | . | e |
+| a | a | n | . | e | d | . | a | a | . | d | e |
 | - | - | - | - | - | - | - | - | - | - | - | - |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 
@@ -32,3 +32,4 @@
 - beurt5: Maksym gokt "v"
 - fout! daar is geen v
 - bert 5: Ilya gokt "D"
+- goed! het word heeft 2 d's
