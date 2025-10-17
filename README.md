@@ -1,1 +1,26 @@
-# Collaboration
+# Galgje – Git Collaboration
+
+**Team:** <Teamnaam>  
+**Spelvolgorde & contact:**
+1. maksim – <40440@ma-web.nl>
+2. ilya – <40097@ma-web.nl>
+3. kjelt – <39950@ma-web.nl>
+4. bob – <40068@ma-web.nl>
+
+---
+
+## Woordraster
+<!-- Pas het aantal kolommen aan aan de woordlengte -->
+| . | . | . | . | . | . | . | . | . | . | . | . |
+| - | - | - | - | - | - | - | - | - | - | - | - |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+
+## Status
+![status](images/1.png)
+
+---
+
+## Beurtenlog
+- beurt1: <Naam> gokt "?"
+- (Git-master vult hier reactie in: goed/fout + updates)
+- beurt2: ...
