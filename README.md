@@ -2,7 +2,7 @@
 
 **Team:** <Teamnaam>  
 **Spelvolgorde & contact:**
-1. maksim – <40440@ma-web.nl>
+1. maksym – <40440@ma-web.nl>
 2. ilya – <40097@ma-web.nl>
 3. kjelt – <39950@ma-web.nl>
 4. bob – <40068@ma-web.nl>
@@ -21,6 +21,6 @@
 ---
 
 ## Beurtenlog
-- beurt1: <Naam> gokt "?"
+- beurt1: Maksym gokt "E"
 - (Git-master vult hier reactie in: goed/fout + updates)
 - beurt2: ...
